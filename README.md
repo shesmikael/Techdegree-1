@@ -1,2 +1,2 @@
-# Techdegree-1
+# Techdegree 1
  Portfolio Intro
